@@ -1,7 +1,7 @@
-import { Comment } from './Comment';
-import styles from './Post.module.css';
-
 import { Avatar } from './Avatar';
+import { Comment } from './Comment';
+
+import styles from './Post.module.css';
 
 export function Post() {
     return (
