@@ -5,7 +5,7 @@ import styles from './Post.module.css';
 
 export function Post() {
     return (
-        <article className={styles.post}>
+        <article className={styles.post}> 
             <header>
                 <div className={styles.author}>
                     <Avatar src="https://avatars.githubusercontent.com/u/111542505?v=4" />

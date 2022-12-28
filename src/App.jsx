@@ -6,6 +6,19 @@ import styles from './App.module.css';
 
 import './global.css';
 
+// author: { avatar_url:"", name: "", role: ""}
+// publishedAt: Date
+// content: String
+
+const posts = [
+  {
+    id: 1,
+    author: {
+      
+    },
+  },
+];
+
 export function App() {
   return (
     <div>
